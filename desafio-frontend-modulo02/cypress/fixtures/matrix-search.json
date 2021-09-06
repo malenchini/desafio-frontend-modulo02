@@ -1,0 +1,410 @@
+{
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/fNG7i7RqMErkcqhohV2a6cV1Ehy.jpg",
+      "genre_ids": [
+        28,
+        878
+      ],
+      "id": 603,
+      "original_language": "en",
+      "original_title": "The Matrix",
+      "overview": "Um jovem programador é atormentado por estranhos pesadelos nos quais sempre está conectado por cabos a um imenso sistema de computadores do futuro. À medida que o sonho se repete, ele começa a levantar dúvidas sobre a realidade. E quando encontra os misteriosos Morpheus e Trinity, ele descobre que é vítima do Matrix, um sistema inteligente e artificial que manipula a mente das pessoas e cria a ilusão de um mundo real enquanto usa os cérebros e corpos dos indivíduos para produzir energia.",
+      "popularity": 58.71,
+      "poster_path": "https://image.tmdb.org/t/p/original/etJHvVsM9aefWWrW23r5BXgVK1F.jpg",
+      "release_date": "1999-03-30",
+      "title": "Matrix",
+      "video": false,
+      "vote_average": 8.2,
+      "vote_count": 19648,
+      "price": 7.5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/sDxCd4nt3eR4qOCW1GoD0RabQtq.jpg",
+      "genre_ids": [
+        12,
+        28,
+        53,
+        878
+      ],
+      "id": 604,
+      "original_language": "en",
+      "original_title": "The Matrix Reloaded",
+      "overview": "Após derrotar as máquinas em seu combate inicial, Neo ainda vive na Nabucodonosor ao lado de Morpheus, Trinity e Link, o novo tripulante da nave. As máquinas estão realizando uma grande ofensiva contra Zion, onde 250 mil delas escavam rumo à cidade e podem alcançá-la em poucos dias. A Nabucodonosor é convocada para retornar a Zion e participar da reunião que definirá o contra-ataque para salvar a humanidade da extinção. Entretanto, um recado enviado pelo Oráculo faz com que Neo retorne à Matrix.",
+      "popularity": 41.821,
+      "poster_path": "https://image.tmdb.org/t/p/original/pTGg4gT6yBAxm6bskTkOjdRsbit.jpg",
+      "release_date": "2003-05-15",
+      "title": "Matrix Reloaded",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 8034,
+      "price": 6.5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/t9dumNakkt6yL9wreEp35T4Lwny.jpg",
+      "genre_ids": [
+        12,
+        28,
+        53,
+        878
+      ],
+      "id": 605,
+      "original_language": "en",
+      "original_title": "The Matrix Revolutions",
+      "overview": "Após enfrentar os sentinelas no mundo real, Neo, a maior esperança da humanidade, está preso entre a Matrix e a realidade. A maioria da população do planeta permanece em um estado de suspensão da realidade virtual. Os poucos humanos que estão cientes das duras realidades tentam desesperadamente afastar as máquinas a tempo de Neo escapar e salvar o dia. Mas as coisas pioram quando o poderoso programa de computador, Agente Smith, aparece na forma humana.",
+      "popularity": 33.565,
+      "poster_path": "https://image.tmdb.org/t/p/original/t1wm4PgOQ8e4z1C6tk1yDNrps4T.jpg",
+      "release_date": "2003-11-05",
+      "title": "Matrix Revolutions",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 7194,
+      "price": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 624860,
+      "original_language": "en",
+      "original_title": "The Matrix Resurrections",
+      "overview": "A quarta parcela da franquia Matrix. Trama ainda desconhecida.",
+      "popularity": 17.168,
+      "poster_path": "https://image.tmdb.org/t/p/original/aLs8CRWr6mXTi7fTUzm5p66NXo7.jpg",
+      "release_date": "2021-12-15",
+      "title": "The Matrix Resurrections",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "price": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/lBdXACywnLwKUZmZkZ87djDQBeV.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 14543,
+      "original_language": "en",
+      "original_title": "The Matrix Revisited",
+      "overview": "O documentário apresenta detalhes e curiosidades sobre a produção original e toda a trajetória de preparação para as filmagens. É mostrada a coleta de informações pelos diretores Larry e Andrew Wachowski sobre filosofia oriental e a natureza da realidade. Curiosidades como os diversos livros que Keanu Reeves teve de ler antes de conhecer o roteiro, além da influência de Hong Konge das lutas de kung-Fu sobre o filme são explicadas por meio de comentários da equipe e do elenco. Todos os mecanismos e táticas para a realização do filme são revelados no documentário. Vale dizer que a obra está dividida em tópicos para que os mistérios sejam esclarecidos: as locações dos sets na Austrália; o estilo visual; os figurinos; a criação dos efeitos especiais; o treinamento dos atores.",
+      "popularity": 10.493,
+      "poster_path": "https://image.tmdb.org/t/p/original/oNZK87GPiBPYfQnDJapungYlRyQ.jpg",
+      "release_date": "2001-11-19",
+      "title": "Matrix – Os Segredos de Produção",
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 142,
+      "price": 8
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        878
+      ],
+      "id": 51767,
+      "original_language": "en",
+      "original_title": "Sexual Matrix",
+      "overview": "",
+      "popularity": 5.791,
+      "poster_path": "https://image.tmdb.org/t/p/original/vmhBIPKyYCWlp2PrIIc6EXZlP9Z.jpg",
+      "release_date": "2000-04-01",
+      "title": "Sexual Matrix",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 9,
+      "price": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99,
+        878
+      ],
+      "id": 221495,
+      "original_language": "en",
+      "original_title": "The Matrix Recalibrated",
+      "overview": "",
+      "popularity": 5.383,
+      "poster_path": "https://image.tmdb.org/t/p/original/gRni1Q651AZPnLqZczmahiIxG0s.jpg",
+      "release_date": "2004-04-06",
+      "title": "The Matrix Recalibrated",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 32,
+      "price": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 591955,
+      "original_language": "en",
+      "original_title": "The Matrix Reloaded Revisited",
+      "overview": "",
+      "popularity": 5.282,
+      "poster_path": "https://image.tmdb.org/t/p/original/gb7C4oRzYWXWCuZMR1cwtHa53Pz.jpg",
+      "release_date": "2004-12-07",
+      "title": "The Matrix Reloaded Revisited",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 12,
+      "price": 7
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        99,
+        878
+      ],
+      "id": 684731,
+      "original_language": "en",
+      "original_title": "The Matrix Reloaded: Pre-Load",
+      "overview": "",
+      "popularity": 5.141,
+      "poster_path": "https://image.tmdb.org/t/p/original/zkpzfTyF7BjadH1PZKlC6kueWXf.jpg",
+      "release_date": "2003-10-14",
+      "title": "The Matrix Reloaded: Pre-Load",
+      "video": false,
+      "vote_average": 6.3,
+      "vote_count": 9,
+      "price": 8
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/5nxDn3mrdmeUHJOZi1Wfqya8Vji.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 696109,
+      "original_language": "en",
+      "original_title": "A Glitch in the Matrix",
+      "overview": "",
+      "popularity": 4.367,
+      "poster_path": "https://image.tmdb.org/t/p/original/bn0BLVadmvzq6MmJ0n97MLxGpNQ.jpg",
+      "release_date": "2021-02-05",
+      "title": "A Glitch in the Matrix",
+      "video": false,
+      "vote_average": 5.4,
+      "vote_count": 14,
+      "price": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        9648,
+        878
+      ],
+      "id": 129399,
+      "original_language": "en",
+      "original_title": "Time Matrix",
+      "overview": "",
+      "popularity": 2.427,
+      "poster_path": "https://image.tmdb.org/t/p/original/3pT6TI22UbIckjoMu05tO2mkLYW.jpg",
+      "release_date": "2013-01-01",
+      "title": "Time Matrix",
+      "video": false,
+      "vote_average": 4.3,
+      "vote_count": 8,
+      "price": 3
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        16,
+        878,
+        53
+      ],
+      "id": 33322,
+      "original_language": "ja",
+      "original_title": "アミテージ・ザ・サード POLY-MATRIX",
+      "overview": "No ano 2046 os seres humanos estão se afastando de usar robôs e começam a confiar cada vez menos neles. Neste tempo, a vida se torna muito perigosa para os seres conhecidos como segundos. Os segundos são a linha mais recente de robôs, até onde o público sabe. Esse é o mundo em que o detetive Ross Sylibus vive. O detetive Sylibus é transferido para Marte por seu pedido depois que seu parceiro foi morto por um robô. À medida que ele chega, ele cai de cabeça num assassinato onde um cantor de país em seu vôo foi assassinado. Ele sai do avião e observa enquanto uma cena se desenrola e ele encontra seu parceiro, Armitage, uma policial com uma atitude importante. Uma série de assassinatos começa quando ainda mais mulheres são mortas. Como a investigação é continuada um segredo é descoberto. Existe outra linha de robôs conhecida como Terços. Mais e mais Terceiros aparecem desaparecidos, como um assassino em série que tem a intenção de aniquilar todos os Terços corre desenfreado.",
+      "popularity": 3.312,
+      "poster_path": "https://image.tmdb.org/t/p/original/7sUCRdjGe7VggDCGIHywfguYdAK.jpg",
+      "release_date": "1996-06-25",
+      "title": "Armitage III: Poly-Matrix",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 35,
+      "price": 8
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 503880,
+      "original_language": "en",
+      "original_title": "The Matrix Revolutions Revisited",
+      "overview": "",
+      "popularity": 3.712,
+      "poster_path": "https://image.tmdb.org/t/p/original/61ASnmqvzpuz9VEfFElo3e2nIft.jpg",
+      "release_date": "2004-12-07",
+      "title": "The Matrix Revolutions Revisited",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 10,
+      "price": 5
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        53,
+        28,
+        16,
+        878,
+        12
+      ],
+      "id": 21769,
+      "original_language": "ja",
+      "original_title": "アミテージ・ザ・サード DUAL-MATRIX",
+      "overview": "Alguns anos depois de se conhecerem, Naomi Armitage e Ross Syllabus começaram uma família. Apesar de suas vidas normais, eles devem manter suas identidades em segredo porque muitas pessoas acreditam que os robôs não merecem status igual com os seres humanos. Ross tem uma oportunidade para abolir essas idéias na Terra através de uma votação, mas as organizações nas sombras estão trabalhando para que isso não aconteça.",
+      "popularity": 2.56,
+      "poster_path": "https://image.tmdb.org/t/p/original/p5nd9VPKxpow5MFAQfZy2DEatPI.jpg",
+      "release_date": "2002-03-22",
+      "title": "Armitage III: Dual-Matrix",
+      "video": false,
+      "vote_average": 6.6,
+      "vote_count": 32,
+      "price": 3.5
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        99,
+        878
+      ],
+      "id": 684428,
+      "original_language": "en",
+      "original_title": "The Matrix: What Is Bullet-Time?",
+      "overview": "",
+      "popularity": 3.197,
+      "poster_path": "https://image.tmdb.org/t/p/original/hSTervHaROcTd8Ir3DPfepN80dL.jpg",
+      "release_date": "1999-09-21",
+      "title": "The Matrix: What Is Bullet-Time?",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "price": 4.5
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        99,
+        878
+      ],
+      "id": 684735,
+      "original_language": "en",
+      "original_title": "Making 'Enter the Matrix'",
+      "overview": "",
+      "popularity": 1.923,
+      "poster_path": "https://image.tmdb.org/t/p/original/645ZsitYflnN1tlNpllSvDQXoQ0.jpg",
+      "release_date": "2003-10-14",
+      "title": "Making 'Enter the Matrix'",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 1,
+      "price": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        14,
+        878
+      ],
+      "id": 187053,
+      "original_language": "en",
+      "original_title": "Blue Matrix",
+      "overview": "",
+      "popularity": 0.633,
+      "poster_path": null,
+      "release_date": "2001-03-01",
+      "title": "Blue Matrix",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "price": 4.5
+    },
+    {
+      "adult": false,
+      "backdrop_path": "https://image.tmdb.org/t/p/original/eCJ7a1ndfdkfkziDAA2OvOsNbsz.jpg",
+      "genre_ids": [],
+      "id": 141225,
+      "original_language": "hu",
+      "original_title": "Buhera mátrix",
+      "overview": "",
+      "popularity": 1.092,
+      "poster_path": "https://image.tmdb.org/t/p/original/mSA91zntAssOuzGiakE3foA1MM0.jpg",
+      "release_date": "2007-03-29",
+      "title": "Buhera mátrix",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "price": 6.5
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        28,
+        99,
+        878
+      ],
+      "id": 684431,
+      "original_language": "en",
+      "original_title": "Making 'The Matrix'",
+      "overview": "",
+      "popularity": 0.961,
+      "poster_path": "https://image.tmdb.org/t/p/original/m2yIfRJYwpCgHON1Ig1pNKMWTxp.jpg",
+      "release_date": "1999-09-21",
+      "title": "Making 'The Matrix'",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 4,
+      "price": 8
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        14,
+        27,
+        878
+      ],
+      "id": 259464,
+      "original_language": "en",
+      "original_title": "V-World Matrix",
+      "overview": "",
+      "popularity": 0.6,
+      "poster_path": null,
+      "release_date": "1999-01-01",
+      "title": "V-World Matrix",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0,
+      "price": 8
+    }
+  ]
+}

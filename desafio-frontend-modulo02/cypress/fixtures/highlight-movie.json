@@ -1,0 +1,98 @@
+{
+  "adult": false,
+  "backdrop_path": "https://image.tmdb.org/t/p/original/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
+  "belongs_to_collection": {
+    "id": 531242,
+    "name": "Suicide Squad Collection",
+    "poster_path": "https://image.tmdb.org/t/p/original/bdgaCpdDh0J0H7ZRpDP2NJ8zxJE.jpg",
+    "backdrop_path": "https://image.tmdb.org/t/p/original/e0uUxFdhdGLcvy9eC7WlO2eLusr.jpg"
+  },
+  "budget": 180000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Ação"
+    },
+    {
+      "id": 12,
+      "name": "Aventura"
+    },
+    {
+      "id": 14,
+      "name": "Fantasia"
+    }
+  ],
+  "homepage": "https://www.thesuicidesquad.net",
+  "id": 436969,
+  "imdb_id": "tt6334354",
+  "original_language": "en",
+  "original_title": "The Suicide Squad",
+  "overview": "Os supervilões Harley Quinn (Margot Robbie), Bloodsport (Idris Elba), Peacemaker (John Cena) e uma coleção de malucos condenados da prisão de Belle Reve juntam-se à super-secreta e super-obscura Força Tarefa X, enquanto são deixados na remota ilha de Corto Maltese para combater o inimigo.",
+  "popularity": 6294.822,
+  "poster_path": "https://image.tmdb.org/t/p/original/wTS3dS2DJiMFFgqKDz5fxMTri.jpg",
+  "production_companies": [
+    {
+      "id": 9993,
+      "logo_path": "https://image.tmdb.org/t/p/original/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+      "name": "DC Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 128064,
+      "logo_path": "https://image.tmdb.org/t/p/original/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
+      "name": "DC Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 507,
+      "logo_path": "https://image.tmdb.org/t/p/original/z7H707qUWigbjHnJDMfj6QITEpb.png",
+      "name": "Atlas Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 429,
+      "logo_path": "https://image.tmdb.org/t/p/original/2Tc1P3Ac8M479naPp1kYT3izLS5.png",
+      "name": "DC Comics",
+      "origin_country": "US"
+    },
+    {
+      "id": 11565,
+      "logo_path": null,
+      "name": "The Safran Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "logo_path": "https://image.tmdb.org/t/p/original/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-07-28",
+  "revenue": 118084747,
+  "runtime": 132,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Eles estão loucos... para salvar o mundo.",
+  "title": "O Esquadrão Suicida",
+  "video": false,
+  "vote_average": 8.1,
+  "vote_count": 2469
+}
